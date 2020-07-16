@@ -2,7 +2,7 @@
 <p align="center"><img src="https://github.com/RafaelLuisDev/RafaelLuisDev/blob/master/hello%20world.gif" width="150px"></p>
 <br>
 
-<img align="left" src='https://github.com/RafaelLuisDev/RafaelLuisDev/blob/master/octocat.png' height='200px'> 
+<img align="left" src='https://github.com/RafaelLuisDev/RafaelLuisDev/blob/master/octocat.png' height='250px'> 
 
 - ✌🏽 &nbsp; Hi, I'm Rafael Luis, alias The.Coder-D., a 27 years old, Brazilian <img src='https://github.com/RafaelLuisDev/RafaelLuisDev/blob/master/br%20flag.gif' height='20px'> and Gaucho <img src='https://github.com/RafaelLuisDev/RafaelLuisDev/blob/master/rs%20flag.gif' height='20px'> from Porto Alegre
 
