@@ -51,6 +51,10 @@
     <img alt="RafaelLuisDev | Whatsapp" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111728.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/rafaellfra">
+    <img alt="RafaelLuisDev | Telegram" width="50px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rafaellfra@hotmail.com">
     <img alt="RafaelLuisDev | Hotmail" width="50px" src="https://image.flaticon.com/icons/svg/732/732223.svg" />
   </a>
